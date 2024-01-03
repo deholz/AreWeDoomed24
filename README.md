@@ -2,7 +2,7 @@
 
 GitHub Repo for the UChicago Winter 2024 course **Are We Doomed?: Confronting the End of the World**
 
-Questions: Every week students will post one question here of less than 150 words, addressed to our speaker, to our course GitHub site (accessible through Canvas) by Wednesday @ midnight immediately prior to our class session. These questions may take up the same angle as developed further in your weekly memo, described below. By 1pm Thursday (an hour before class), each student will up-vote (“thumbs up”) what they think are the five most interesting questions for that session. Some of the top voted questions will be asked by students to the speakers during class.
+Questions: Every week students will post one question [here]([url](https://github.com/deholz/AreWeDoomed24/issues)) of less than 150 words, addressed to our speaker, to our course GitHub site (accessible through Canvas) by Wednesday @ midnight immediately prior to our class session. These questions may take up the same angle as developed further in your weekly memo, described below. By 1pm Thursday (an hour before class), each student will up-vote (“thumbs up”) what they think are the five most interesting questions for that session. Some of the top voted questions will be asked by students to the speakers during class.
 
 Memos: Every week students will post one memo here in response to the readings and associated topic. The memo should be 300–500 words + 1 visual element (e.g., figure, image, hand-drawn picture, art, etc. that complements or is suggestive of your argument). The memo should be tagged with one or more of the following:
 
