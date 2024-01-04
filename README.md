@@ -2,9 +2,11 @@
 
 GitHub Repo for the UChicago Winter 2024 course **Are We Doomed?: Confronting the End of the World**
 
-Questions: Every week students will post one question [here](https://github.com/deholz/AreWeDoomed24/issues) of less than 150 words, addressed to our speaker, to our course GitHub site (accessible through Canvas) by Wednesday @ midnight immediately prior to our class session. These questions may take up the same angle as developed further in your weekly memo, described below. By 1pm Thursday (an hour before class), each student will up-vote (“thumbs up”) what they think are the five most interesting questions for that session. Some of the top voted questions will be asked by students to the speakers during class.
+**Questions**: Every week students will post one question [here](https://github.com/deholz/AreWeDoomed24/issues) of less than 150 words, addressed to our speaker, to our course GitHub site (accessible through Canvas) by Wednesday @ midnight immediately prior to our class session. These questions may take up the same angle as developed further in your weekly memo, described below. By 1pm Thursday (an hour before class), each student will up-vote (“thumbs up”) what they think are the five most interesting questions for that session. Some of the top voted questions will be asked by students to the speakers during class.
 
-Memos: Every week students will post one memo here in response to the readings and associated topic. The memo should be 300–500 words + 1 visual element (e.g., figure, image, hand-drawn picture, art, etc. that complements or is suggestive of your argument). The memo should be tagged with one or more of the following:
+**Memos**: Every week students will post one memo [here](https://github.com/deholz/AreWeDoomed24/issues) in response to the readings and associated topic. The memo should be 300–500 words + 1 visual element (e.g., figure, image, hand-drawn picture, art, etc. that complements or is suggestive of your argument). The memo should be tagged with one or more of the following:
+
+#nuclear/#climate/#bio/#cyber/#emerging: Partial list of topics of focus.
 
 #origin: How did we get here? Reflection on the historical, technological, political and other origins of this existential crisis that help us better understand and place it in context.
 
@@ -17,8 +19,6 @@ Memos: Every week students will post one memo here in response to the readings a
 #framing: What are competing framings of this existential challenge? Are there any novel framings that could allow us to think about the challenge differently; that would make it more salient? How do different ethical, religious, political and other positions frame this challenge and its consequences (e.g., “End of the Times”).
 
 #salience: Why is it hard to think and talk about or ultimately mobilize around this existential challenge? Are there agencies in society with an interest in downplaying the risks associated with this challenge? Are there ideologies that are inconsistent with this risk that make it hard to recognize or feel responsible for?
-
-#nuclear/#climate/#bio/#cyber/#emerging: Partial list of topics of focus.
 
 Movie/novel memo: Each week there will be a selection of films and novels. For one session over the course of the quarter, at their discretion, students will post a memo that reflects on a film or fictional rendering of an existential challenge. This should be tagged with:
 
